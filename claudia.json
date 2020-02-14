@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "appony-back-executor",
+    "name": "appony-back",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "xpf3mt3uqj"
+  }
+}

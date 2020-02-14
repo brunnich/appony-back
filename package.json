@@ -1,0 +1,23 @@
+{
+  "name": "appony-back",
+  "version": "1.0.0",
+  "description": "Appony back",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunnich/appony-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunnich/appony-back/issues"
+  },
+  "homepage": "https://github.com/brunnich/appony-back#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.6",
+    "express": "^4.17.1"
+  }
+}
